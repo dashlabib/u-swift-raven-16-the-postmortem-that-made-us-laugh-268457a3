@@ -1,0 +1,1 @@
+I asked the agent to rename one variable; it renamed the variable, the database column, and — for reasons it could not explain — the company. We spent Friday restoring the backups and Monday restoring our faith in code review.
